@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaexrecension07demouoft_0505.png"; bbox 0 0 2013 3261; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 680 1428 1392 1493">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 680 1428 1392 1493">
+     <span class='ocr_line' id='line_1_1' title="bbox 680 1428 1392 1493; baseline 0.032 -23"><span class='ocrx_word' id='word_1_1' title='bbox 680 1428 859 1475; x_wconf 56' lang='lat' dir='ltr'>MEAE&amp;</span> <span class='ocrx_word' id='word_1_2' title='bbox 898 1436 978 1480; x_wconf 63' lang='lat' dir='ltr'>OC)</span> <span class='ocrx_word' id='word_1_3' title='bbox 1018 1441 1125 1485; x_wconf 50' lang='lat' dir='ltr'>⁵4⁴OE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1173 1446 1392 1493; x_wconf 48' lang='lat' dir='ltr'>frss’ifss-sntmffss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 509 1520 1476 1596">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 509 1520 1557 1596">
+     <span class='ocr_line' id='line_1_2' title="bbox 509 1520 1476 1596; baseline 0.014 -33"><span class='ocrx_word' id='word_1_5' title='bbox 509 1520 685 1569; x_wconf 61' lang='lat' dir='ltr'>CARDS</span> <span class='ocrx_word' id='word_1_6' title='bbox 722 1528 799 1572; x_wconf 61' lang='grc' dir='ltr'>ΟΡ.</span> <span class='ocrx_word' id='word_1_7' title='bbox 839 1533 969 1579; x_wconf 67' lang='grc' dir='ltr'>ΞῌΡὸ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1010 1540 1162 1583; x_wconf 54' lang='lat' dir='ltr'>Fffl&#39;jm</span> <span class='ocrx_word' id='word_1_9' title='bbox 1202 1546 1310 1591; x_wconf 49' lang='lat' dir='ltr'>&#39;mig</span> <span class='ocrx_word' id='word_1_10' title='bbox 1351 1551 1476 1596; x_wconf 47' lang='lat' dir='ltr'>twygg</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2013 3261">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2013 3261">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2013 3261; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2013 3261; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
